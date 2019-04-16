@@ -1,0 +1,9 @@
+1. The txt document 'Evaluate Expression Commands' contains commands for PyCharm Evaluate Expression. The breakpoint can be set at row 152 of 'autoencoder_data_streams.py' then use the commands in Evaluate Expression to see the color space conversion results.
+
+2. The script 'test_batch_conversion.py' shows that the color conversion functions can deal with batches.
+
+3. config has new attribute 'ColorSpace'.
+
+4. the old data creating scripts are deleted. Now only the RGB data will be created from benchmark and synthetic LFs.
+
+
